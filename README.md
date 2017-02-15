@@ -26,3 +26,6 @@
     $ python tournament_test.py
 ```
 - Enjoy
+
+### Project Guideline 
+- Visit this link to find the guideline for this project : https://docs.google.com/document/d/16IgOm4XprTaKxAa8w02y028oBECOoB1EI1ReddADEeY/pub?embedded=true
