@@ -33,5 +33,5 @@
 
 ### Success : All Testcases Passed 
 
-![test-case-screenshot](https://github.com/sivcan/Tournament-Results/blob/master/images/results.png)
+![test-case-screenshot](https://github.com/sivcan/Tournament-Results/blob/master/images/result.png)
 
